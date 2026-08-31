@@ -1,0 +1,6 @@
+{
+  "adsEnabled": false,
+  "bannerEnabled": false,
+  "interstitialIntervalSeconds": 180,
+  "minAppVersion": "1.0.4"
+}
